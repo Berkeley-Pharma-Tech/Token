@@ -4,6 +4,7 @@
     "solc": "^0.8.0"
   },
   "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2",
     "ganache-cli": "^6.12.2"
   }
 }
