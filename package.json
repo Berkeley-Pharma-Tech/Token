@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/contracts": "^2.5.1",
+    "@openzeppelin/test-helpers": "^0.5.10",
     "solc": "^0.8.0"
   },
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.2.2",
+    "chai": "^4.3.4",
     "ganache-cli": "^6.12.2"
   }
 }
